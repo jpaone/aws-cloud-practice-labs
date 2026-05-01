@@ -5,7 +5,8 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-vpc)
 
 **Author:** James Paonessa  
-**Email:** james@jamespaonessa.com
+**Portfolio:** AWS Infrastructure Practice Lab  
+**Contact:** Available via GitHub or LinkedIn
 
 ---
 
