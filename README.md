@@ -6,6 +6,7 @@ This repository documents my hands-on AWS cloud practice labs, with a focus on b
 These labs are designed as repeatable technical exercises. Each project includes notes on the services used, the architecture created, configuration steps, issues encountered, and lessons learned. Where applicable, resources were deleted after completion to reduce cost and minimize unnecessary exposure.
 
 Areas Covered
+
 AWS account and environment setup
 VPCs, subnets, route tables, and internet gateways
 Security groups and network access control
